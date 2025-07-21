@@ -1,5 +1,7 @@
 # Jeep 웹페이지 클론
 
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/c68ad8ea-47a8-457a-a2c8-1308eeceb072" />
+
 이 프로젝트는 수업 시간에 진행한 HTML/CSS 실습 과제로,
 Jeep 브랜드의 웹사이트를 참고하여 정적인 웹페이지를 직접 구현해본 클론 코딩입니다.
 
